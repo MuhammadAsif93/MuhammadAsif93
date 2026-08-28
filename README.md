@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MuhammadAsif93/MuhammadAsif93/blob/main/images%20(1).jpg" alt="logo" />
+  <img src="https://github.com/MuhammadAsif93/MuhammadAsif93/blob/main/images%20(1).jpg?raw=true" alt="Muhammad Asif" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm MUHAMMAD ASIF</h1>
